@@ -25,7 +25,7 @@ Desktop
 Mobile
 <br>
 
-![Mobile](/umg/minibio_mobile.gif)
+![Mobile](/img/minibio_mobile.gif)
 
 
 ## Autor
